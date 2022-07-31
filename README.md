@@ -1,6 +1,6 @@
 # Insurance_Company_Tableau
 
-This is Project Where an Insurance company wants to expand their business over worldwide
+In this is Project Where an Insurance company wants to expand their business over worldwide
 In this project as a data analyst I am working for an insurance company my task is to compare various parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio of different countries using the sample insurance dataset and world development indicators dataset.
 In this Project I made a 4 sheet one for Geographical Map where it show the high income group,low and average income groups of Countries, One  for KPI table which show the Current year and previous sale profit and one for Growth Indicator If their is profit it show green color arror in upward direction, if growth decrearses it show red color arrow towards downward direction, and if growth was constant it show arrow towards right direction in yellow color, lastly one sheet for trend line which is moving line chart when we change the year it shows the trend of average sales trend of two diffrent years.
 In this Project I made a dashboard where I put all sheet along in floating way, and i use one web page object to link geographical map because when we move our cursor to any country it show the current data from wikipedia of that country, apart from this i used download from object to download current sheet in the form of pdf.
